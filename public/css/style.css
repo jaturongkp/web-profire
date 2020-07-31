@@ -1,0 +1,14 @@
+body {
+    padding: 0;
+    margin: 0em;
+    padding-top: 2rem;
+  }
+  .starter-template {
+    width: 100%;
+    padding: 3rem ;
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+  }
+ .container{
+    font-family: 'Pattaya', sans-serif;
+ }
